@@ -14,3 +14,6 @@
 .DS_Store
 ._*
 
+*.json
+gruntfile.js
+node_modules
